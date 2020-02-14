@@ -20,4 +20,23 @@
 // float the aside to the side of the section
 // use inline-block to make a 2 column layout (2 elements side by side)
 
+// Exercise Fonts
+// set your paragraphs to be a web safe font.
+// load a font from Google that you like and set that for your anchor tags.
+// mess with font/text properties
+// set your divs to a certain background color.
+// load a background image to something
+// set a background-gradient to something
+  
+// Exercise lists and tables
+// add an unordered list of at least 3 items
+// add an ordered list of at least 3 items
+// create a table
+// nest the unordered list in a cell
+// nest the ordered list in another cell
+// give the table a heading and footer
+// add an image tag
+// give it a caption
+// make a form with some different types of inputs
+
 divWw.style.color="red"

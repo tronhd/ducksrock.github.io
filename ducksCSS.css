@@ -18,3 +18,39 @@ aside {
     width: 40%;
     font-style: italic;
     color: #29627e;
+  }
+/* font-family: 'Saira Semi Condensed', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'PT Serif', serif; */
+
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+p{
+   font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+/* can design each box to be different using id elements */
+#divWw {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmtvNSJsDa-zva-h35lf9G4P5KNNYhqBS2z23FP7VOqcTGmk_Z);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color:#a2c8dd;
+}
+
+#divDw {
+  height: 200px;
+  background-color: #cccccc;
+  background-image: linear-gradient(purple, yellow);
+}
+
+table {
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid #a2c8dd;
+  padding: 10px 15px;
+}
